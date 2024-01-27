@@ -1,13 +1,17 @@
 import { StatusBar } from 'expo-status-bar'
 import { FC } from 'react'
 import { StyleSheet, Text, View } from 'react-native'
+import { CirclesExample } from './src/CirclesExample'
 
 export const App: FC = () => {
 	return (
 		<View style={styles.container}>
+			<CirclesExample />
+
 			<Text style={styles.intro}>
 				📝 Edit App.tsx to work on your app! 💫
 			</Text>
+
 			<StatusBar
 				animated
 				backgroundColor="#0ff"
