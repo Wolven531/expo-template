@@ -12,7 +12,10 @@ export const App: FC = () => {
 				animated
 				backgroundColor="#0ff"
 				// hidden
-				style="dark"
+				// style="auto"
+				// style="dark"
+				// style="light"
+				// style="inverted"
 				translucent
 			/>
 		</View>
