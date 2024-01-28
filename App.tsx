@@ -8,9 +8,9 @@ export const App: FC = () => {
 		<View style={styles.container}>
 			<CirclesExample />
 
-			<Text style={styles.intro}>
+			{/* <Text style={styles.intro}>
 				📝 Edit App.tsx to work on your app! 💫
-			</Text>
+			</Text> */}
 
 			<StatusBar
 				animated
