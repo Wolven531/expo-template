@@ -23,7 +23,7 @@ Tested on Medium Phone API 30 (Android 11.0, "R")
 
 ### Third, launch app
 
-With an AVD already open and running, execute `npm run android` in the root of this repo to launch the app on the AVD (first run will take some time, subsequent runs will be much faster; 5.5 minutes on i7 @ 3.0 GHz)
+With an AVD already open and running, execute `npm run android` in the root of this repo to launch the app on the AVD (first run will take some time, subsequent runs will be much faster; 5.5 minutes on i7 @ 3.0 GHz, 30 secs after)
 
 ## Misc
 
